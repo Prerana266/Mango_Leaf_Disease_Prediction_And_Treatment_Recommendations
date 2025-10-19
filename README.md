@@ -1,7 +1,7 @@
-# 🌿 AgriLeaf Doctor - Smart Crop Disease Detection System
+# 🌿 Deep Learning Based Mango Leaf Disease Prediction And Treatment Recommendations
 
 ## Overview
-AgriLeaf Doctor is a comprehensive AI-powered agricultural application designed to help farmers identify and treat crop leaf diseases effectively using the mango leaf disease dataset from Kaggle.
+This is a comprehensive AI-powered agricultural application designed to help farmers identify and treat crop leaf diseases effectively using the mango leaf disease dataset from Kaggle.
 
 ## 🚀 Features
 - **🦠 Disease Detection**: AI-powered leaf disease classification using deep learning
@@ -27,4 +27,3 @@ Next steps:
 - Run the Streamlit app with `streamlit run app.py`.
 - Test the app by uploading leaf images and exploring features.
 
-Please confirm if you want me to assist with any of these next steps or if you want me to help with anything else related to this project.
